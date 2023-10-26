@@ -35,7 +35,32 @@ There were some empty space in the all the row in the dataset,I was able able to
 
 ## Analysis and Visualization
 
-Average BMI,Age,Cholestrol,Blood Pressure,Temperature Analysis      |    Average BMI,Age,Cholestrol,Blood Pressure,Temperature Visuals
+Average BMI,Age,Cholestrol,Blood Pressure,Temperature;
+ Analysis                                                           |     Visuals
 :-------------------------------------------------------------:    |    :-------------------------------------------------------------:
 ![](AverageBMI............Analysis.png)                            |       ![](AverageBMI............Visuals.png)
+
+Average Weight and Height
+Analysis                                                            |     Visuals
+:-------------------------------------------------------------:    |    :-------------------------------------------------------------:
+![](AverageWeightandheightAnalysis.png)                            |       ![](AverageWeightandheightVisuals.png)
+
+Number of students across Blood Type
+Analysis                                                            |     Visuals
+:-------------------------------------------------------------:       |    :-------------------------------------------------------------:
+![](BloodTypeAnalysis.png)                                          |       ![](BloodTypeVisuals.png)
+
+Number of students who smoke and who does not
+Analysis                                                            |     Visuals
+:-------------------------------------------------------------:    |    :-------------------------------------------------------------:
+![](SmokersAnalysis.png)                                           |       ![](SmokersVisuals.png)
+
+Number of students who has Diabetes and who does not
+Analysis                                                            |     Visuals
+:-------------------------------------------------------------:    |    :-------------------------------------------------------------:
+![](DiabetiesAnalysis.png)                                           |       ![](DiabetiesVisual.png)
+
+# Conclusion
+The Empty space in the dataset was too much, and because of this we were not able to get an accurate analysis.The Dataset should be completed to get a significant analysis.
+
 
